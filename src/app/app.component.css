@@ -1,0 +1,4 @@
+.container { text-align: center; padding: 20px; }
+nav { margin-bottom: 20px; }
+nav a { margin: 0 15px; text-decoration: none; color: #007BFF; }
+.active { font-weight: bold; text-decoration: underline; }
